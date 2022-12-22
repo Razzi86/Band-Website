@@ -31,7 +31,7 @@ A simple mock website for a band I listen to, made with HTML, CSS, and JavaScrip
   - Show an alert with the text "Thank you for your purchase" and loops through all the "cart-items" elements until empty
 
 <img width="690" alt="Screen Shot 2022-12-22 at 2 49 01 PM" src="https://user-images.githubusercontent.com/75161978/209214621-1aa05ed9-aa1f-416e-bc43-a631cc20a446.png">
-<img width="769" alt="Screen Shot 2022-12-22 at 2 59 42 PM" src="https://user-images.githubusercontent.com/75161978/209216376-318f9264-783d-4d65-ac6b-d4657f152169.png">
+![Purchase_Example](https://user-images.githubusercontent.com/75161978/209221439-ea8f4935-da97-4e21-b89c-800abffa7af0.gif)
 
 # The About Page
 **Functionality**
